@@ -28,7 +28,7 @@ dependencies = [
     "dask",
     "distributed",
     "dask-jobqueue",
-    "zarr",
+    "zarr<3",
     "einops",
     "echo-opt",
     "bridgescaler",

@@ -13,7 +13,7 @@ pyyaml
 dask
 distributed
 dask-jobqueue
-zarr
+zarr<3
 jupyter
 einops
 echo-opt
