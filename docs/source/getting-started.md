@@ -18,7 +18,7 @@ pip install miles-credit
 
 If you want to install the main development branch
 ```bash
-git clone git@github.com:NCAR/miles-credit.git
+git clone https://github.com/NCAR/miles-credit.git
 cd miles-credit
 pip install -e .
 ```
